@@ -10,4 +10,4 @@ Coming soon:
 - Multiple Quantum Well functionality
 - More accurate modeling (other than Linear Regression)
 
-Click here to try the project: 
+Click here to try the project: https://gan-visualizer.vercel.app/
